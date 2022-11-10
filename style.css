@@ -143,8 +143,8 @@ table {
 
 .intro {
     position: absolute;
-    top: 25%;
-    left: 8%;
+    top: 10em;
+    left: 1em;
     margin: 10px;
     width: 30%;
     height: auto;
@@ -154,7 +154,7 @@ table {
 }
 .sources {
     position: absolute;
-    top: 160%;
+    top: 55em;
     /* margin: 10px; */
     width: 130%;
     height: auto;
@@ -243,7 +243,7 @@ left: 0%;
 right: 0%;
 background-color: #fff;
 padding: 1em;
-min-width: 30rem;
+min-width: 29rem;
 
 }
 
