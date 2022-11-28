@@ -116,7 +116,7 @@ table {
     text-align: left;
     left: 15%;
     color: #251048;
-    font-size: 50px; 
+    font-size: 4em; 
     background-color: #72599A;  
     border-radius: 25px;
 }
@@ -130,6 +130,14 @@ table {
     font-size: 30px; 
 }
 
+.subheader-info {
+    position: absolute;
+    text-align: left;
+    left: 1.25%;
+    top: 110%;
+    color: #251048;
+    font-size: 7em; 
+}
 
 .langtree {
     position: absolute;
